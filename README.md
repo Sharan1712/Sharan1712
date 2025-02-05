@@ -1,7 +1,7 @@
 # Sharan Shyamsundar 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sharans-1712/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](sharan1712.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/sharan1712)
   
 🎓 **Master's in Data Science (Universität Mannheim, Germany)**  
 📊 Passionate about **Deep Learning, NLP, and GenAI**

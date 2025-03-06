@@ -16,10 +16,15 @@
 
 ## 🚀 Projects
 
-### [A Study of Parameter Efficient Fine-Tuning Methods applied to Quantized LLMs](https://github.com/Sharan1712/quantization_peft)
+### [A Study of Parameter Efficient Fine-Tuning Methods Applied to Quantized LLMs](https://github.com/Sharan1712/quantization_peft)
 - Researched advanced **Parameter-Efficient Fine-Tuning (PEFT)** combined with quantization for **large language models (LLMs)**.
 - Achieved **40-60% memory reduction** while maintaining high model accuracy.
 - Evaluated computational trade-offs, enabling large model deployments in constrained environments.
+
+### ZENIX: Zero Effort Natural language to Integrated XML
+- Developed a multi-agent AI system to translate natural language queries into SQL for business intelligence.
+- Managed interactions between multiple AI agents to ensure precise query execution.
+- Integrated AI-driven user experience enhancements for enterprise database navigation.
 
 ### Foodle: AI-Powered Cooking Assistant 
 - Developed an AI-driven assistant using **Automatic Speech Recognition (ASR)** and **Retrieval-Augmented Generation (RAG)**.

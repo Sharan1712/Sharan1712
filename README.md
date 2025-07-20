@@ -39,9 +39,8 @@
 ---
 “Turning data into insights, and insights into action.”  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharan1712&langs_count=8&layout=compact&theme=merko" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharan1712&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharan1712&theme=github_dark)
 
 <!--
 **Sharan1712/Sharan1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

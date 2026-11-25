@@ -1,6 +1,6 @@
 ### Hi, I'm Sharan. I build AI agents that do real work.
 
-Founding AI Engineer at qado in Germany. At qado, I build agents that help enterprise buyers keep the savings they negotiate. Before that, I built agents that do the books at Quid.
+Founding AI Engineer at qado in Germany, building agents that help enterprise buyers keep the savings they negotiate. Before that, I built agents that do the books at Quid.
 
 Most of my work starts as a prototype and has to end up in production, so I care about the unglamorous part: evals before features, and plain code that checks what the model says before anyone relies on it.
 

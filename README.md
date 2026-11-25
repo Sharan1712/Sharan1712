@@ -35,6 +35,10 @@ Agents that turn plain-language questions into SQL queries and XML business obje
 
 Also: a [multi-agent article writer](https://github.com/Sharan1712/crewai-ArticleWriter) and a [project planner](https://github.com/Sharan1712/AllocationPlanningAgent), built with CrewAI.
 
+#### How I build with AI
+
+Claude Code is part of how I work every day, and I set it up as a team tool, not a personal one: repo-level instructions and rules, shared skills and plugins, and MCP servers, packaged with [APM (Agent Package Manager)](https://github.com/microsoft/apm) so everyone on the team starts from the same setup. For bigger pieces of work I run autonomous build loops, with evals and code review as the gate.
+
 #### What I work with
 
-Python, TypeScript and SQL. LangGraph, LangChain, Pydantic AI and LangSmith for agents. PostgreSQL, Neo4j and Qdrant for data. Azure, AWS, Docker and Pulumi to ship it.
+Python, TypeScript and SQL. LangGraph, LangChain, Pydantic AI and LangSmith for agents. PostgreSQL, Neo4j and Qdrant for data. Azure, AWS, Docker and Pulumi to ship it. Claude Code, MCP and APM to build it.

@@ -1,58 +1,20 @@
-# Sharan Shyamsundar 👋
+### Hi, I'm Sharan. I build AI agents that do real work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sharans-1712/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://sharan1712.github.io/)
-  
-🎓 **Master's in Data Science (Universität Mannheim, Germany)**  
-📊 Passionate about **Deep Learning, NLP, and GenAI**
+Founding AI Engineer at qado in Germany. At qado, I build agents that help enterprise buyers keep the savings they negotiate. Before that, I built agents that do the books at Quid.
 
----
+Most of my work starts as a prototype and has to end up in production, so I care about the unglamorous part: evals before features, and plain code that checks what the model says before anyone relies on it.
 
-## 🛠️ Technical Skills
-- **Programming Languages**: Python, SQL, R  
-- **Frameworks & Tools**: PyTorch, HuggingFace Transformers, LangChain, Streamlit, MLOps, Power BI  
-- **Cloud & DevOps**: Azure AI Studio, Docker, Git  
-- **Specialized Areas**: LLMOps, Retrieval-Augmented Generation (RAG), Parameter-Efficient Fine-Tuning (PEFT)
+[Website](https://sharanshyamsundar.com) | [LinkedIn](https://www.linkedin.com/in/sharans-1712/) | [Email](mailto:de.sharan17@gmail.com) | [CV (PDF)](https://sharanshyamsundar.com/cv/sharan-shyamsundar-cv.pdf)
 
-## 🚀 Projects
+#### Open source and builds
 
-### [A Study of Parameter Efficient Fine-Tuning Methods Applied to Quantized LLMs](https://github.com/Sharan1712/quantization_peft)
-- Researched advanced **Parameter-Efficient Fine-Tuning (PEFT)** combined with quantization for **large language models (LLMs)**.
-- Achieved **40-60% memory reduction** while maintaining high model accuracy.
-- Evaluated computational trade-offs, enabling large model deployments in constrained environments.
+- **[casecheck](https://github.com/Sharan1712/casecheck)**: test cases for AI agents. Write cases in YAML, run one command, and see what passed, why the rest failed, and what your last change fixed or broke.
+- **[PEFT on quantised LLMs](https://github.com/Sharan1712/quantization_peft)**: my MSc thesis. How much quality parameter-efficient fine-tuning keeps on quantised LLaMA models, for the memory it saves.
+- **[ZENIX](https://github.com/Sharan1712/Jivs-WEF-Hackathon)**: agents that turn plain-language questions into SQL queries and XML business objects. 2nd overall at the JiVS AI Hackathon at WEF Davos, with team Strike.
+- **[Multi-agent article writer](https://github.com/Sharan1712/crewai-ArticleWriter)** and **[project planner](https://github.com/Sharan1712/AllocationPlanningAgent)**, built with CrewAI.
 
-### ZENIX: Zero Effort Natural language to Integrated XML
-- Developed a multi-agent AI system to translate natural language queries into SQL for business intelligence.
-- Managed interactions between multiple AI agents to ensure precise query execution.
-- Integrated AI-driven user experience enhancements for enterprise database navigation.
+#### What I work with
 
-### Foodle: AI-Powered Cooking Assistant 
-- Developed an AI-driven assistant using **Automatic Speech Recognition (ASR)** and **Retrieval-Augmented Generation (RAG)**.
-- Fine-tuned **LLMs** for recipe guidance, achieving **91.3% accuracy** in responses.
-- Enabled hands-free navigation and multilingual support for accessibility.
+Python, TypeScript and SQL. LangGraph, LangChain, Pydantic AI and LangSmith for agents. PostgreSQL, Neo4j and Qdrant for data. Azure, AWS, Docker and Pulumi to ship it.
 
-### ARTICULA: Detecting & Spoofing AI-Generated Content
-- Built solutions to identify and combat AI-generated misinformation.
-- Implemented ensemble models for text and image detection.
-- Participated in the **Informatics Cup 2024**, showcasing cutting-edge AI security innovations.
-
----
-“Turning data into insights, and insights into action.”  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharan1712&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharan1712&theme=github_dark)
-
-<!--
-**Sharan1712/Sharan1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There's an assistant on [my website](https://sharanshyamsundar.com) that answers questions about my work, and [a page on how it's built and tested](https://sharanshyamsundar.com/en/how-this-site-is-built).

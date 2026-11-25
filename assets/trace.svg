@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="A run of the assistant on sharanshyamsundar.com answering: What does Sharan build?">
+  <rect width="1000" height="300" rx="14" fill="#1F1C19"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17">
+    <text x="40" y="52" fill="#A9BDD6">ask</text><text x="130" y="52" fill="#F6F1EA">What does Sharan build?</text>
+    <text x="40" y="96" fill="#8F877C">0.2 s</text><text x="130" y="96" fill="#A9BDD6">read</text><text x="230" y="96" fill="#D8CFC3">Sharan's notes</text>
+    <text x="40" y="132" fill="#8F877C">0.6 s</text><text x="130" y="132" fill="#A9BDD6">answer</text><text x="230" y="132" fill="#F6F1EA">AI agents that do real work: enterprise procurement</text>
+    <text x="230" y="158" fill="#F6F1EA">at qado now, finance at Quid before.</text>
+    <text x="40" y="200" fill="#8F877C">0.9 s</text><text x="130" y="200" fill="#A9BDD6">check</text><text x="230" y="200" fill="#D8CFC3">length, card, links, setup</text><text x="560" y="200" fill="#9BC59D">4 of 4 passed in code</text>
+    <line x1="40" x2="960" y1="232" y2="232" stroke="#3A3530"/>
+    <text x="40" y="268" fill="#D8CFC3">Ask it yourself at</text><text x="250" y="268" fill="#8FB0D6">sharanshyamsundar.com</text>
+  </g>
+</svg>

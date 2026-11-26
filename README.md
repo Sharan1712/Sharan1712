@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sharan.
 
-Founding AI Engineer at qado in Germany, building agents that help enterprise buyers keep the savings they negotiate. Before that, I built agents that do the books at Quid. I take agents from prototype to production, and I care about the unglamorous part: evals before features, and plain code that checks what the model says before anyone relies on it.
+Founding AI Engineer at qado in Germany, building agents that help enterprise buyers keep the savings they negotiate: from agents that read supply contracts to a chat-based negotiation assistant that briefs a buyer, plans the talks and drafts the slides, analyses and emails. Before that, I built agents that do the books at Quid. I take agents from prototype to production, and I care about the unglamorous part: evals before features, and plain code that checks what the model says before anyone relies on it.
 
 [Website](https://sharanshyamsundar.com) | [LinkedIn](https://www.linkedin.com/in/sharans-1712/) | [Email](mailto:de.sharan17@gmail.com) | [CV (PDF)](https://sharanshyamsundar.com/cv/sharan-shyamsundar-cv.pdf)
 
